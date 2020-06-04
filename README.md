@@ -1,2 +1,2 @@
 # 20190242	BaeJieun
-# Kookmin Univ.SW
+# Kookmin Univ. Computer Science
